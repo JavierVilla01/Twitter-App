@@ -1,4 +1,4 @@
-# Project 3 - *Twitter-Appe*
+# Project 3 - *Twitter-App*
 
 **Twitter-app** is a basic twitter app to read your tweets.
 
