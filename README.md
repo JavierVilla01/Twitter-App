@@ -25,6 +25,3 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/nG8xIMpdqE.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Notes
-
-The computer I was using to actually submit the assignment was 'Unable to boot device due to insufficient system resources' so I could not create the walkthrough gif.
